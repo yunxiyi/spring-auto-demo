@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.alibaba.dubbo.demo.DubboAutoConfiguration
+
+org.springframework.context.ApplicationContextInitializer=\
+    com.alibaba.dubbo.demo.DubboApplicationInitializer
+
